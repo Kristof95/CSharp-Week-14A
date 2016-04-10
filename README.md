@@ -167,7 +167,9 @@ class Program
 
 7. Build the project, and resolve any errors. Verify that the console application successfully shows all the countries added.
 
-######################################################################################################################################
+--------------------------------------------------------------------------------------------------------------------------------------
+part two of exercise
+--------------------------------------------------------------------------------------------------------------------------------------
 
 Exercise 1: Searching for a file
 Using Visual Studio, create a new console application project. Name the project SeekAndArchive. We would like to create an application which watches a selected group of files, and automatically creates a compressed archive of them when any of them changes. 
