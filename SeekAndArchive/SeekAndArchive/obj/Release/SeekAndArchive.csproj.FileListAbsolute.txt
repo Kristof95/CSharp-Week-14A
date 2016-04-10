@@ -1,0 +1,6 @@
+C:\Users\Kristof\Documents\Visual Studio 2015\Projects\SeekAndArchive\SeekAndArchive\bin\Release\SeekAndArchive.exe.config
+C:\Users\Kristof\Documents\Visual Studio 2015\Projects\SeekAndArchive\SeekAndArchive\bin\Release\SeekAndArchive.exe
+C:\Users\Kristof\Documents\Visual Studio 2015\Projects\SeekAndArchive\SeekAndArchive\bin\Release\SeekAndArchive.pdb
+C:\Users\Kristof\Documents\Visual Studio 2015\Projects\SeekAndArchive\SeekAndArchive\obj\Release\SeekAndArchive.exe
+C:\Users\Kristof\Documents\Visual Studio 2015\Projects\SeekAndArchive\SeekAndArchive\obj\Release\SeekAndArchive.pdb
+C:\Users\Kristof\Documents\Visual Studio 2015\Projects\SeekAndArchive\SeekAndArchive\obj\Release\SeekAndArchive.csprojResolveAssemblyReference.cache

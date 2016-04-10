@@ -1,0 +1,5 @@
+c:\users\kristof\documents\visual studio 2015\Projects\SequentialCollections\DictionaryCollections\bin\Debug\DictionaryCollections.exe.config
+c:\users\kristof\documents\visual studio 2015\Projects\SequentialCollections\DictionaryCollections\bin\Debug\DictionaryCollections.exe
+c:\users\kristof\documents\visual studio 2015\Projects\SequentialCollections\DictionaryCollections\bin\Debug\DictionaryCollections.pdb
+c:\users\kristof\documents\visual studio 2015\Projects\SequentialCollections\DictionaryCollections\obj\Debug\DictionaryCollections.exe
+c:\users\kristof\documents\visual studio 2015\Projects\SequentialCollections\DictionaryCollections\obj\Debug\DictionaryCollections.pdb

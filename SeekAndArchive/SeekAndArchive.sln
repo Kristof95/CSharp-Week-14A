@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeekAndArchive", "SeekAndArchive\SeekAndArchive.csproj", "{09CCB3AF-8A3D-4A82-96A5-8BF5024728BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsolatedStorageDemo", "IsolatedStorageDemo\IsolatedStorageDemo.csproj", "{9134578D-00D3-4880-9BB3-4DACD1647B47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09CCB3AF-8A3D-4A82-96A5-8BF5024728BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CCB3AF-8A3D-4A82-96A5-8BF5024728BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CCB3AF-8A3D-4A82-96A5-8BF5024728BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CCB3AF-8A3D-4A82-96A5-8BF5024728BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9134578D-00D3-4880-9BB3-4DACD1647B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9134578D-00D3-4880-9BB3-4DACD1647B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9134578D-00D3-4880-9BB3-4DACD1647B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9134578D-00D3-4880-9BB3-4DACD1647B47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

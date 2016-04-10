@@ -1,0 +1,6 @@
+C:\Users\Kristof\Documents\Visual Studio 2015\Projects\SeekAndArchive\IsolatedStorageDemo\bin\Release\IsolatedStorageDemo.exe.config
+C:\Users\Kristof\Documents\Visual Studio 2015\Projects\SeekAndArchive\IsolatedStorageDemo\bin\Release\IsolatedStorageDemo.exe
+C:\Users\Kristof\Documents\Visual Studio 2015\Projects\SeekAndArchive\IsolatedStorageDemo\bin\Release\IsolatedStorageDemo.pdb
+C:\Users\Kristof\Documents\Visual Studio 2015\Projects\SeekAndArchive\IsolatedStorageDemo\obj\Release\IsolatedStorageDemo.csprojResolveAssemblyReference.cache
+C:\Users\Kristof\Documents\Visual Studio 2015\Projects\SeekAndArchive\IsolatedStorageDemo\obj\Release\IsolatedStorageDemo.exe
+C:\Users\Kristof\Documents\Visual Studio 2015\Projects\SeekAndArchive\IsolatedStorageDemo\obj\Release\IsolatedStorageDemo.pdb

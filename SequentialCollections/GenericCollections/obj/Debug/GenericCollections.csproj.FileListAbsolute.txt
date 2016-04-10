@@ -1,0 +1,5 @@
+c:\users\kristof\documents\visual studio 2015\Projects\SequentialCollections\GenericCollections\bin\Debug\GenericCollections.exe.config
+c:\users\kristof\documents\visual studio 2015\Projects\SequentialCollections\GenericCollections\bin\Debug\GenericCollections.exe
+c:\users\kristof\documents\visual studio 2015\Projects\SequentialCollections\GenericCollections\bin\Debug\GenericCollections.pdb
+c:\users\kristof\documents\visual studio 2015\Projects\SequentialCollections\GenericCollections\obj\Debug\GenericCollections.exe
+c:\users\kristof\documents\visual studio 2015\Projects\SequentialCollections\GenericCollections\obj\Debug\GenericCollections.pdb
